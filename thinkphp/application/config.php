@@ -148,7 +148,7 @@ return [
             '__CSS__'=> '/static/css',
             '__LAYUI__'=> '/static/layui',
             '__IMG__'=> '/static/img',
-            '__BASE__'=> 'http://hr'
+            '__BASE__'=> 'http://192.168.0.103:8001'
         ]
     ],
 
@@ -250,24 +250,4 @@ return [
         'var_page'  => 'page',
         'list_rows' => 15,
     ],
-
-    //对接企业微信的参数配置
-    'wechat_config'               => [
-
-        'corpId'=>'wxf55504ee9e74913a',//企业微信的secret
-
-        'kpi_app'=>[
-            'agentId'=>1000015,//应用id
-            'secret'=>'xHb5QN1dMsO-fiNMWH09a8vNFFC8fMNUmY1w5MHCUiQ'//这个是开通的应用secret 值 ，非企业微信secret 值
-        ],
-        'crm_app'=>[
-            'agentId'=>1000014,
-            'secret'=>'qdZbGdxUJ6WUhdNHFclcJbeuCfNiYymAMT72-hpWgnw'
-        ],
-    ],
-
-    'domain'=>[
-        'crm'=>'http://testcrm2.sharebd.cn',
-        'boss'=>'http://testboss.sharebd.cn',
-    ]
 ];

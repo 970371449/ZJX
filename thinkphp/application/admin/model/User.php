@@ -18,6 +18,7 @@ class User extends Model
      */
     public function loginJump($param)
     {
+
         //获取数据库账户信息
         $userInfo = $this->find();
 

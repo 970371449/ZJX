@@ -16,7 +16,12 @@ class Index extends Common
      */
     public function Index()
     {
+        if($this->request->isAjax()){
+            $c = new \SaeTClientV2(WB_AKEY,WB_SKEY,session('access_token'));
+            $ms = $c->home_timeline();
+
+            return json($ms);
+        }
         echo $this->fetch();
     }
-
 }

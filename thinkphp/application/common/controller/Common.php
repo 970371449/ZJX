@@ -26,7 +26,7 @@ class Common extends Controller
 //        $action = $request->action();
         if($controller != 'Login'){
             if(!session('user')['id']){
-                $this->error('请登录',3,'http://hr');
+                $this->error('请登录',3,'http://hr:8001');
             }else{
                 //查询对应菜单权限
                 $menu = Db::table('jw_menu')->select();
@@ -44,9 +44,13 @@ class Common extends Controller
                     }
                 }
             }
-            $tree = new \Tree();
-            $this->assign('menulist',$tree->treeList($menulist));
-//            $this->menulist = $tree->treeList($menulist);
+            if(empty($menulist)){
+                $this->assign('menulist','');
+                $this->assign('empty','<li class="layui-nav-item layui-nav-itemed layui-bg-red"><span style="padding: 0 0 0 45px">你没有菜单权限</span></li>');
+            }else{
+                $tree = new \Tree();
+                $this->assign('menulist',$tree->treeList($menulist));
+            }
         }
     }
 }

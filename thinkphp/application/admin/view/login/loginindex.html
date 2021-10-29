@@ -12,7 +12,7 @@
     <script src="__STATIC__/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="__STATIC__/bootstrap-3.3.7-dist/css/bootstrap.css">
     <link rel="stylesheet" href="__STATIC__/css/PersonalCss.css">
-
+    <script src="//tjs.sjs.sinajs.cn/open/api/js/wb.js?appkey=4262232852" type="text/javascript" charset="utf-8"></script>
 </head>
 
 <body class="Loginbody">
@@ -65,6 +65,7 @@
                     <div class="col-lg-6 col-lg-offset-2" style="background:white;">
                         <p>
                             <a href="#">Forget Passcode?</a>
+                            <a id="microBlog_login" href=""><img src="__IMG__/weibo_login.png" title="点击进入授权页面" alt="点击进入授权页面" border="0" /></a>
                         </p>
                     </div>
                 </div>
@@ -80,5 +81,15 @@
     </div>
 </div>
 </body>
-
+<script>
+    $(function () {
+        $.ajax({
+            type:'post',
+            url:'{:url("admin/Login/loginIndex")}',
+            success:function (res) {
+                $("#microBlog_login").attr("href",res);
+            }
+        })
+    })
+</script>
 </html>

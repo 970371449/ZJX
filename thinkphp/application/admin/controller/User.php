@@ -7,9 +7,11 @@ namespace app\admin\controller;
 use app\admin\model\Excel;
 use app\common\controller\Common;
 use app\admin\model\User as U;
+use think\Db;
 
 class User extends Common
 {
+
     /**
      *用户列表页面
      */
