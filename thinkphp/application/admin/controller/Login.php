@@ -29,31 +29,6 @@ class Login extends Common
     }
 
     /**
-     * 测试回调url
-     */
-    public function test()
-    {
-        //判断是否为微博登录
-        if (isset($this->param['code'])) {
-            $o = new \SaeTOAuthV2(WB_AKEY, WB_SKEY);
-            $keys = array();
-            $keys['code'] = $_REQUEST['code'];
-            $keys['redirect_uri'] = WB_CALLBACK_URL;
-            try {
-                $token = $o->getAccessToken('code', $keys);
-            } catch (OAuthException $e) {
-                $this->error("登录错误" . ":" . $e->getMessage(), 3);
-            }
-        }
-
-        if ($token) {
-            print_r($token);
-            return;
-        }
-
-    }
-
-    /**
      * 登录跳转验证
      * @param account账号
      * @param password密码
