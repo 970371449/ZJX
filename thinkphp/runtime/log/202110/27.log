@@ -1,0 +1,4579 @@
+---------------------------------------------------------------
+[ 2021-10-27T20:16:39+08:00 ] 127.0.0.1 GET hr:8080/
+[运行时间：0.126563s] [吞吐率：7.90req/s] [内存消耗：1,067.22kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8080',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T21:04:43+08:00 ] 127.0.0.1 GET hr:8080/crm/test/test
+[运行时间：0.026854s] [吞吐率：37.24req/s] [内存消耗：861.87kb] [文件加载：31]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8080',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T21:07:17+08:00 ] 127.0.0.1 GET hr:8080/crm/test/test
+[运行时间：0.028221s] [吞吐率：35.43req/s] [内存消耗：1,052.53kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8080',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\crm\controller\Test->test[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T21:11:17+08:00 ] 127.0.0.1 GET 127.0.0.1:8080/crm/test/test
+[运行时间：0.028130s] [吞吐率：35.55req/s] [内存消耗：1,053.49kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '127.0.0.1:8080',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\crm\controller\Test->test[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T21:12:12+08:00 ] 127.0.0.1 GET hr/
+[运行时间：0.031008s] [吞吐率：32.25req/s] [内存消耗：1,067.25kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T21:25:57+08:00 ] 127.0.0.1 GET hr/
+[运行时间：0.028039s] [吞吐率：35.66req/s] [内存消耗：1,067.22kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T21:26:30+08:00 ] 127.0.0.1 GET hr:8001/
+[运行时间：0.032512s] [吞吐率：30.76req/s] [内存消耗：1,067.23kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T21:26:46+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.022463s] [吞吐率：44.52req/s] [内存消耗：1,067.26kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T21:29:04+08:00 ] 127.0.0.1 GET hr:8001/
+[运行时间：0.030507s] [吞吐率：32.78req/s] [内存消耗：1,067.24kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T21:30:52+08:00 ] 127.0.0.1 GET hr:8001/
+[运行时间：0.023121s] [吞吐率：43.25req/s] [内存消耗：1,067.24kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T21:33:40+08:00 ] 127.0.0.1 GET hr:8001/
+[运行时间：0.029714s] [吞吐率：33.65req/s] [内存消耗：1,067.24kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T21:44:36+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.028462s] [吞吐率：35.13req/s] [内存消耗：1,067.26kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T21:49:22+08:00 ] 127.0.0.1 GET hr:8001/
+[运行时间：0.028522s] [吞吐率：35.06req/s] [内存消耗：1,067.24kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T21:50:32+08:00 ] 127.0.0.1 GET hr:8001/admin/Test/test
+[运行时间：0.029118s] [吞吐率：34.34req/s] [内存消耗：1,051.73kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Test->test[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T21:50:42+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/Test/test
+[运行时间：0.022874s] [吞吐率：43.72req/s] [内存消耗：1,051.77kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Test->test[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T21:50:53+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/Test/test
+[运行时间：0.023026s] [吞吐率：43.43req/s] [内存消耗：1,052.77kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'Test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\crm\controller\Test->test[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T21:51:04+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/Test/test2
+[运行时间：0.023301s] [吞吐率：42.92req/s] [内存消耗：1,052.74kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'Test',
+    2 => 'test2',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\crm\controller\Test->test2[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T21:51:09+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/Test/test
+[运行时间：0.023090s] [吞吐率：43.31req/s] [内存消耗：1,052.77kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'Test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\crm\controller\Test->test[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:02:04+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/Test/test?code=518087deb736a7d1fc37f9d985b91210
+[运行时间：0.047680s] [吞吐率：20.97req/s] [内存消耗：1,053.23kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'Test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'code' => '518087deb736a7d1fc37f9d985b91210',
+)
+[ info ] [ RUN ] app\crm\controller\Test->test[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:06:41+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/Test/test?code=eea6957cadb3548f6654cfd6c86eb971
+[运行时间：0.047633s] [吞吐率：20.99req/s] [内存消耗：1,053.48kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'Test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'code' => 'eea6957cadb3548f6654cfd6c86eb971',
+)
+[ info ] [ RUN ] app\crm\controller\Test->test[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:09:39+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/Test/test?code=eea6957cadb3548f6654cfd6c86eb971
+[运行时间：0.027955s] [吞吐率：35.77req/s] [内存消耗：1,053.48kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'Test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'code' => 'eea6957cadb3548f6654cfd6c86eb971',
+)
+[ info ] [ RUN ] app\crm\controller\Test->test[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:09:40+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/Test/test?code=eea6957cadb3548f6654cfd6c86eb971
+[运行时间：0.022294s] [吞吐率：44.86req/s] [内存消耗：1,053.48kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'Test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'code' => 'eea6957cadb3548f6654cfd6c86eb971',
+)
+[ info ] [ RUN ] app\crm\controller\Test->test[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:09:41+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/Test/test?code=eea6957cadb3548f6654cfd6c86eb971
+[运行时间：0.022871s] [吞吐率：43.72req/s] [内存消耗：1,053.48kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'Test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'code' => 'eea6957cadb3548f6654cfd6c86eb971',
+)
+[ info ] [ RUN ] app\crm\controller\Test->test[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:09:42+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/Test/test?code=eea6957cadb3548f6654cfd6c86eb971
+[运行时间：0.022559s] [吞吐率：44.33req/s] [内存消耗：1,053.48kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'Test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'code' => 'eea6957cadb3548f6654cfd6c86eb971',
+)
+[ info ] [ RUN ] app\crm\controller\Test->test[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:27:17+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.028107s] [吞吐率：35.58req/s] [内存消耗：1,067.26kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:29:43+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/Test/test
+[运行时间：0.027633s] [吞吐率：36.19req/s] [内存消耗：1,053.20kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'Test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\crm\controller\Test->test[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:30:05+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/Test/test
+[运行时间：0.021963s] [吞吐率：45.53req/s] [内存消耗：861.98kb] [文件加载：31]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:30:13+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/Index/index
+[运行时间：0.026683s] [吞吐率：37.48req/s] [内存消耗：1,069.95kb] [文件加载：37]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\tpl\dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:30:15+08:00 ] 127.0.0.1 GET hr:8001/
+[运行时间：0.023450s] [吞吐率：42.64req/s] [内存消耗：1,067.61kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/admin/Index/index',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:30:40+08:00 ] 127.0.0.1 GET hr:8001/admin/Login/loginJump
+[运行时间：0.026412s] [吞吐率：37.86req/s] [内存消耗：1,098.25kb] [文件加载：39]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Login',
+    2 => 'loginJump',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginJump[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: account[E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php:27]
+---------------------------------------------------------------
+[ 2021-10-27T22:31:02+08:00 ] 127.0.0.1 GET hr:8001/admin/Login/loginJump?account=admin
+[运行时间：0.024917s] [吞吐率：40.13req/s] [内存消耗：1,098.49kb] [文件加载：39]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Login',
+    2 => 'loginJump',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'account' => 'admin',
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginJump[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: password[E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php:30]
+---------------------------------------------------------------
+[ 2021-10-27T22:31:11+08:00 ] 127.0.0.1 GET hr:8001/admin/Login/loginJump?account=admin&password=123
+[运行时间：0.066071s] [吞吐率：15.14req/s] [内存消耗：1,963.69kb] [文件加载：46]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Login',
+    2 => 'loginJump',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'account' => 'admin',
+  'password' => '123',
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginJump[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\tpl\dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002143s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_user` [ RunTime:0.002069s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_user` LIMIT 1 [ RunTime:0.000266s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:31:26+08:00 ] 127.0.0.1 GET hr:8001/admin/Login/loginJump?account=admin
+[运行时间：0.024969s] [吞吐率：40.05req/s] [内存消耗：1,098.65kb] [文件加载：39]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Login',
+    2 => 'loginJump',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'account' => 'admin',
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginJump[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义数组索引: password[E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php:30]
+---------------------------------------------------------------
+[ 2021-10-27T22:31:37+08:00 ] 127.0.0.1 GET hr:8001/admin/Login/loginJump?account=admin&password=123
+[运行时间：0.038946s] [吞吐率：25.68req/s] [内存消耗：2,023.44kb] [文件加载：47]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Login',
+    2 => 'loginJump',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'account' => 'admin',
+  'password' => '123',
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginJump[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001036s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_user` [ RunTime:0.001054s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_user` LIMIT 1 [ RunTime:0.000309s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:31:37+08:00 ] 127.0.0.1 GET hr:8001/admin/index/index.html
+[运行时间：0.037053s] [吞吐率：26.99req/s] [内存消耗：1,971.36kb] [文件加载：46]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=3kf99diufu346ih93th1mf6ab4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->Index[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\index\index.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000973s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.001224s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000355s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:31:42+08:00 ] 127.0.0.1 GET hr:8001/admin/index/index.html
+[运行时间：0.038503s] [吞吐率：25.97req/s] [内存消耗：1,971.36kb] [文件加载：46]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=3kf99diufu346ih93th1mf6ab4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->Index[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\index\index.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000975s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.001003s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000320s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:32:48+08:00 ] 127.0.0.1 GET hr:8001/admin/index/index.html
+[运行时间：0.044737s] [吞吐率：22.35req/s] [内存消耗：1,971.36kb] [文件加载：46]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=3kf99diufu346ih93th1mf6ab4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->Index[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\index\index.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001205s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.001147s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000356s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:32:58+08:00 ] 127.0.0.1 GET hr:8001/admin/index/index.html
+[运行时间：0.039304s] [吞吐率：25.44req/s] [内存消耗：1,971.36kb] [文件加载：46]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=3kf99diufu346ih93th1mf6ab4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->Index[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\index\index.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001109s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.001117s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000349s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:33:00+08:00 ] 127.0.0.1 GET hr:8001/admin/index/index.html
+[运行时间：0.065351s] [吞吐率：15.30req/s] [内存消耗：1,971.68kb] [文件加载：46]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=3kf99diufu346ih93th1mf6ab4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->Index[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\index\index.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001119s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.001202s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000378s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:41:47+08:00 ] 127.0.0.1 GET hr:8001/admin/index/index.html
+[运行时间：0.071873s] [吞吐率：13.91req/s] [内存消耗：1,971.68kb] [文件加载：46]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=3kf99diufu346ih93th1mf6ab4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->Index[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\index\index.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001361s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.001166s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000330s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:41:51+08:00 ] 127.0.0.1 GET hr:8001/admin/index/index.html
+[运行时间：0.038824s] [吞吐率：25.76req/s] [内存消耗：1,971.36kb] [文件加载：46]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=3kf99diufu346ih93th1mf6ab4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->Index[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\index\index.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001012s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.001020s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000322s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:41:53+08:00 ] 127.0.0.1 GET hr:8001/admin/index/index.html
+[运行时间：0.057302s] [吞吐率：17.45req/s] [内存消耗：1,971.68kb] [文件加载：46]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=3kf99diufu346ih93th1mf6ab4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->Index[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\index\index.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001142s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.001211s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000375s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:41:53+08:00 ] 127.0.0.1 GET hr:8001/admin/index/index.html
+[运行时间：0.059041s] [吞吐率：16.94req/s] [内存消耗：1,971.68kb] [文件加载：46]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=3kf99diufu346ih93th1mf6ab4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->Index[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\index\index.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001149s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.001191s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000369s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:42:28+08:00 ] 127.0.0.1 GET hr:8001/
+[运行时间：0.024244s] [吞吐率：41.25req/s] [内存消耗：1,067.65kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=3kf99diufu346ih93th1mf6ab4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:42:40+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.023048s] [吞吐率：43.39req/s] [内存消耗：1,067.63kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:44:28+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.043863s] [吞吐率：22.80req/s] [内存消耗：1,067.99kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:44:28+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.042187s] [吞吐率：23.70req/s] [内存消耗：1,067.99kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:44:29+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.046864s] [吞吐率：21.34req/s] [内存消耗：1,067.99kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:44:29+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.039730s] [吞吐率：25.17req/s] [内存消耗：1,067.99kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:44:29+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.049845s] [吞吐率：20.06req/s] [内存消耗：1,067.99kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:44:53+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.053141s] [吞吐率：18.82req/s] [内存消耗：1,068.09kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:44:53+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.031059s] [吞吐率：32.20req/s] [内存消耗：1,067.99kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:44:54+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.020890s] [吞吐率：47.87req/s] [内存消耗：1,067.99kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:44:54+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.043362s] [吞吐率：23.06req/s] [内存消耗：1,067.99kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:44:54+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.028952s] [吞吐率：34.54req/s] [内存消耗：1,067.99kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:44:55+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.021164s] [吞吐率：47.25req/s] [内存消耗：1,067.99kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:45:10+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.053433s] [吞吐率：18.72req/s] [内存消耗：1,186.91kb] [文件加载：38]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:46:41+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.038079s] [吞吐率：26.26req/s] [内存消耗：1,186.96kb] [文件加载：38]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:46:50+08:00 ] 192.168.0.103 POST 192.168.0.103:8001/admin/Login/loginJump
+[运行时间：0.050581s] [吞吐率：19.77req/s] [内存消耗：2,024.65kb] [文件加载：47]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Login',
+    2 => 'loginJump',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'origin' => 'http://192.168.0.103:8001',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'content-length' => '39',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+)
+[ info ] [ PARAM ] array (
+  'method' => 'login',
+  'account' => 'admin',
+  'password' => '123',
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginJump[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006702s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_user` [ RunTime:0.005239s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_user` LIMIT 1 [ RunTime:0.000366s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:46:50+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/index/index.html
+[运行时间：0.038933s] [吞吐率：25.69req/s] [内存消耗：1,971.89kb] [文件加载：46]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->Index[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\index\index.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001042s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.001291s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000317s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:47:13+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/index/index.html
+[运行时间：0.059449s] [吞吐率：16.82req/s] [内存消耗：1,971.89kb] [文件加载：46]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->Index[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\index\index.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000943s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.000979s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000324s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:47:15+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/index/index.html
+[运行时间：0.059062s] [吞吐率：16.93req/s] [内存消耗：1,971.89kb] [文件加载：46]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->Index[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\index\index.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000953s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.000979s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000335s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:47:17+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/index/index.html
+[运行时间：0.057210s] [吞吐率：17.48req/s] [内存消耗：1,971.98kb] [文件加载：46]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->Index[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\index\index.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001073s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.001115s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000369s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:47:27+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/index/index.html
+[运行时间：0.055734s] [吞吐率：17.94req/s] [内存消耗：2,091.05kb] [文件加载：48]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->Index[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\index\index.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000959s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.000978s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000315s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:47:29+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/index/index.html
+[运行时间：0.051497s] [吞吐率：19.42req/s] [内存消耗：1,971.89kb] [文件加载：46]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->Index[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\index\index.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000975s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.000979s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000313s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:47:30+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/index/index.html
+[运行时间：0.065738s] [吞吐率：15.21req/s] [内存消耗：1,971.89kb] [文件加载：46]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->Index[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\index\index.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001054s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.001092s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000381s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:47:39+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/index/index.html
+[运行时间：0.071489s] [吞吐率：13.99req/s] [内存消耗：2,091.17kb] [文件加载：48]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->Index[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\index\index.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001086s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.001158s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000369s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:47:42+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/Login/loginExit
+[运行时间：0.026555s] [吞吐率：37.66req/s] [内存消耗：1,343.68kb] [文件加载：39]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Login',
+    2 => 'loginExit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginExit[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:47:42+08:00 ] 127.0.0.1 GET hr:8001/
+[运行时间：0.021126s] [吞吐率：47.33req/s] [内存消耗：1,067.84kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=3kf99diufu346ih93th1mf6ab4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:47:47+08:00 ] 192.168.0.103 POST 192.168.0.103:8001/admin/Login/loginJump
+[运行时间：0.037939s] [吞吐率：26.36req/s] [内存消耗：2,024.63kb] [文件加载：47]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Login',
+    2 => 'loginJump',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://hr:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'origin' => 'http://hr:8001',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'content-length' => '39',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+)
+[ info ] [ PARAM ] array (
+  'method' => 'login',
+  'account' => 'admin',
+  'password' => '123',
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginJump[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000917s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_user` [ RunTime:0.000957s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_user` LIMIT 1 [ RunTime:0.000311s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:47:47+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/index/index.html
+[运行时间：0.034831s] [吞吐率：28.71req/s] [内存消耗：1,971.70kb] [文件加载：46]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://hr:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->Index[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\index\index.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000939s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.000971s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000314s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:49:30+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/index/index.html
+[运行时间：0.043268s] [吞吐率：23.11req/s] [内存消耗：1,971.55kb] [文件加载：46]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://hr:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->Index[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\index\index.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000987s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.001060s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000327s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:51:25+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/index/index.html
+[运行时间：0.061026s] [吞吐率：16.39req/s] [内存消耗：2,090.90kb] [文件加载：48]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://hr:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->Index[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\index\index.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001356s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.001155s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000349s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:51:26+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/index/index.html
+[运行时间：0.057139s] [吞吐率：17.50req/s] [内存消耗：1,971.67kb] [文件加载：46]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://hr:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->Index[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\index\index.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000971s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.000993s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000319s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:51:29+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/menu/menuIndex
+[运行时间：0.048960s] [吞吐率：20.42req/s] [内存消耗：2,184.50kb] [文件加载：49]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'menu',
+    2 => 'menuIndex',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Menu->menuIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Menu.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\menu\menuindex.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001033s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.001122s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000427s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:51:30+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/menu/menuindex.html
+[运行时间：0.041374s] [吞吐率：24.17req/s] [内存消耗：2,017.83kb] [文件加载：48]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'menu',
+    2 => 'menuindex',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/admin/menu/menuIndex',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Menu->menuIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Menu.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001062s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.001050s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000463s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `jw_menu` LIMIT 1 [ RunTime:0.000382s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000318s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:51:30+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/user/userIndex
+[运行时间：0.044116s] [吞吐率：22.67req/s] [内存消耗：2,158.48kb] [文件加载：49]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'user',
+    2 => 'userIndex',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/admin/menu/menuIndex',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\User->userIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\User.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\user\userindex.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001007s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.000775s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000324s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:51:31+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/user/userindex.html?page=1&limit=10
+[运行时间：0.039824s] [吞吐率：25.11req/s] [内存消耗：1,987.20kb] [文件加载：47]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'user',
+    2 => 'userindex',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/admin/user/userIndex',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\User->userIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000962s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.000820s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000338s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_user` [ RunTime:0.000906s ]
+[ sql ] [ SQL ] SELECT COUNT(id) AS tp_count FROM `jw_user` LIMIT 1 [ RunTime:0.000211s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_user` LIMIT 0,10 [ RunTime:0.000229s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:51:32+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/menu/menuIndex
+[运行时间：0.044285s] [吞吐率：22.58req/s] [内存消耗：2,045.42kb] [文件加载：47]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'menu',
+    2 => 'menuIndex',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/admin/user/userIndex',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Menu->menuIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Menu.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\menu\menuindex.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001011s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.000833s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000339s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:51:32+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/menu/menuindex.html
+[运行时间：0.037161s] [吞吐率：26.91req/s] [内存消耗：2,017.83kb] [文件加载：48]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'menu',
+    2 => 'menuindex',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/admin/menu/menuIndex',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Menu->menuIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Menu.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001018s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.000795s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000338s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `jw_menu` LIMIT 1 [ RunTime:0.000206s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000275s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:51:41+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/Login/loginExit
+[运行时间：0.026859s] [吞吐率：37.23req/s] [内存消耗：1,343.70kb] [文件加载：39]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Login',
+    2 => 'loginExit',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/admin/menu/menuIndex',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginExit[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:51:41+08:00 ] 127.0.0.1 GET hr:8001/
+[运行时间：0.021295s] [吞吐率：46.96req/s] [内存消耗：1,067.88kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=3kf99diufu346ih93th1mf6ab4',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/admin/menu/menuIndex',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:51:43+08:00 ] 192.168.0.103 POST 192.168.0.103:8001/admin/Login/loginJump
+[运行时间：0.036953s] [吞吐率：27.06req/s] [内存消耗：2,024.63kb] [文件加载：47]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Login',
+    2 => 'loginJump',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://hr:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'origin' => 'http://hr:8001',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'content-length' => '39',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+)
+[ info ] [ PARAM ] array (
+  'method' => 'login',
+  'account' => 'admin',
+  'password' => '123',
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginJump[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000934s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_user` [ RunTime:0.000913s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_user` LIMIT 1 [ RunTime:0.000269s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:51:43+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/index/index.html
+[运行时间：0.035219s] [吞吐率：28.39req/s] [内存消耗：1,971.67kb] [文件加载：46]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://hr:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->Index[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\index\index.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000944s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.000775s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000310s ]
+---------------------------------------------------------------
+[ 2021-10-27T22:54:08+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.027735s] [吞吐率：36.06req/s] [内存消耗：1,067.26kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:54:15+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/Test/test
+[运行时间：0.021157s] [吞吐率：47.27req/s] [内存消耗：1,052.95kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'Test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\crm\controller\Test->test[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:54:35+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.036392s] [吞吐率：27.48req/s] [内存消耗：1,067.75kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=v3mc5pjjlv7pcuaqs6h8l3e0h1',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'purpose' => 'prefetch',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T22:54:35+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.021028s] [吞吐率：47.56req/s] [内存消耗：1,067.26kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:04:19+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.042103s] [吞吐率：23.75req/s] [内存消耗：1,186.88kb] [文件加载：38]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:04:27+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.040298s] [吞吐率：24.82req/s] [内存消耗：1,186.88kb] [文件加载：38]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:04:28+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.042396s] [吞吐率：23.59req/s] [内存消耗：1,067.51kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:04:29+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.043056s] [吞吐率：23.23req/s] [内存消耗：1,067.51kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:04:29+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.049309s] [吞吐率：20.28req/s] [内存消耗：1,067.51kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:04:43+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.041965s] [吞吐率：23.83req/s] [内存消耗：1,067.51kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:07:30+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.036523s] [吞吐率：27.38req/s] [内存消耗：1,186.99kb] [文件加载：38]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:13:40+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.038101s] [吞吐率：26.25req/s] [内存消耗：1,188.07kb] [文件加载：38]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:14:08+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.043651s] [吞吐率：22.91req/s] [内存消耗：1,188.09kb] [文件加载：38]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:16:31+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.040917s] [吞吐率：24.44req/s] [内存消耗：1,187.88kb] [文件加载：38]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:16:33+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.042724s] [吞吐率：23.41req/s] [内存消耗：1,067.49kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:16:34+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.020825s] [吞吐率：48.02req/s] [内存消耗：1,067.49kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:16:37+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.040371s] [吞吐率：24.77req/s] [内存消耗：1,067.49kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:16:38+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.020803s] [吞吐率：48.07req/s] [内存消耗：1,067.80kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:17:09+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.044085s] [吞吐率：22.68req/s] [内存消耗：1,187.26kb] [文件加载：38]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:17:32+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.044012s] [吞吐率：22.72req/s] [内存消耗：1,187.64kb] [文件加载：38]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:18:04+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.047017s] [吞吐率：21.27req/s] [内存消耗：1,187.62kb] [文件加载：38]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:18:06+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.038368s] [吞吐率：26.06req/s] [内存消耗：1,067.49kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:18:07+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.042380s] [吞吐率：23.60req/s] [内存消耗：1,067.80kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:18:10+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.022675s] [吞吐率：44.10req/s] [内存消耗：1,067.26kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:18:17+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.025851s] [吞吐率：38.68req/s] [内存消耗：1,067.26kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:19:30+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.035590s] [吞吐率：28.10req/s] [内存消耗：1,187.60kb] [文件加载：38]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:19:32+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.028022s] [吞吐率：35.69req/s] [内存消耗：1,067.80kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:19:33+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.047181s] [吞吐率：21.19req/s] [内存消耗：1,067.80kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:43:35+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.033546s] [吞吐率：29.81req/s] [内存消耗：1,188.09kb] [文件加载：38]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:43:38+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/wbLogin/wbLogin?
+[运行时间：0.021286s] [吞吐率：46.98req/s] [内存消耗：862.25kb] [文件加载：31]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'wbLogin',
+    2 => 'wbLogin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:44:25+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.042029s] [吞吐率：23.79req/s] [内存消耗：1,188.09kb] [文件加载：38]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:44:26+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/admin/wbLogin/wbLogin
+[运行时间：0.020416s] [吞吐率：48.98req/s] [内存消耗：862.25kb] [文件加载：31]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'wbLogin',
+    2 => 'wbLogin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:44:50+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/test/test
+[运行时间：0.023330s] [吞吐率：42.86req/s] [内存消耗：1,052.95kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\crm\controller\Test->test[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:45:37+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.052128s] [吞吐率：19.18req/s] [内存消耗：1,188.09kb] [文件加载：38]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:45:37+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.021706s] [吞吐率：46.07req/s] [内存消耗：1,067.80kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:45:40+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/test/wbLogin
+[运行时间：0.021806s] [吞吐率：45.86req/s] [内存消耗：1,054.15kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'test',
+    2 => 'wbLogin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\crm\controller\Test->wbLogin[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:47:23+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/Test/test?code=65e370d74479359b5e0a0956f031d32e
+[运行时间：0.048723s] [吞吐率：20.52req/s] [内存消耗：1,053.98kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'Test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'code' => '65e370d74479359b5e0a0956f031d32e',
+)
+[ info ] [ RUN ] app\crm\controller\Test->test[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:57:20+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/test/wbLogin
+[运行时间：0.027099s] [吞吐率：36.90req/s] [内存消耗：1,054.48kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'test',
+    2 => 'wbLogin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\crm\controller\Test->wbLogin[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:57:21+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/Test/test?code=475c74f587bb5fda2c7e3fda4f652033
+[运行时间：0.050767s] [吞吐率：19.70req/s] [内存消耗：1,088.50kb] [文件加载：38]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'Test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'code' => '475c74f587bb5fda2c7e3fda4f652033',
+)
+[ info ] [ RUN ] app\crm\controller\Test->test[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]Header may not contain more than a single header, new line detected[E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php:36]
+---------------------------------------------------------------
+[ 2021-10-27T23:57:41+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.040335s] [吞吐率：24.79req/s] [内存消耗：1,067.80kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:58:02+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/test/wbLogin
+[运行时间：0.021930s] [吞吐率：45.60req/s] [内存消耗：1,054.25kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'test',
+    2 => 'wbLogin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\crm\controller\Test->wbLogin[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:58:02+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/Test/test?code=b8a914d6cdb741f819169c9af0d8a543
+[运行时间：0.038886s] [吞吐率：25.72req/s] [内存消耗：1,054.27kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'Test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'code' => 'b8a914d6cdb741f819169c9af0d8a543',
+)
+[ info ] [ RUN ] app\crm\controller\Test->test[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:58:06+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/test/wbLogin
+[运行时间：0.021834s] [吞吐率：45.80req/s] [内存消耗：1,054.25kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'test',
+    2 => 'wbLogin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\crm\controller\Test->wbLogin[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:58:06+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/Test/test?code=38dcc7e11b60cfdc507c5ebfd2aff36e
+[运行时间：0.049114s] [吞吐率：20.36req/s] [内存消耗：1,054.27kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'Test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'code' => '38dcc7e11b60cfdc507c5ebfd2aff36e',
+)
+[ info ] [ RUN ] app\crm\controller\Test->test[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:58:53+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/
+[运行时间：0.040327s] [吞吐率：24.80req/s] [内存消耗：1,067.49kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:58:54+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/test/wbLogin
+[运行时间：0.021863s] [吞吐率：45.74req/s] [内存消耗：1,054.28kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'test',
+    2 => 'wbLogin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\crm\controller\Test->wbLogin[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:58:54+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/Test/test?code=ebd2fe7a796106d2bd1814b32b6a1d05
+[运行时间：0.047054s] [吞吐率：21.25req/s] [内存消耗：1,054.35kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'Test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'code' => 'ebd2fe7a796106d2bd1814b32b6a1d05',
+)
+[ info ] [ RUN ] app\crm\controller\Test->test[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:59:19+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/Test/test?code=ebd2fe7a796106d2bd1814b32b6a1d05
+[运行时间：0.021964s] [吞吐率：45.53req/s] [内存消耗：1,054.63kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'Test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'code' => 'ebd2fe7a796106d2bd1814b32b6a1d05',
+)
+[ info ] [ RUN ] app\crm\controller\Test->test[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:59:27+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/test/wbLogin
+[运行时间：0.026818s] [吞吐率：37.29req/s] [内存消耗：1,054.28kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'test',
+    2 => 'wbLogin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\crm\controller\Test->wbLogin[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-27T23:59:27+08:00 ] 192.168.0.103 GET 192.168.0.103:8001/crm/Test/test?code=69fb4bae09cdb17cba450be8f79d87ee
+[运行时间：0.040739s] [吞吐率：24.55req/s] [内存消耗：1,054.35kb] [文件加载：34]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'crm',
+    1 => 'Test',
+    2 => 'test',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://192.168.0.103:8001/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => '192.168.0.103:8001',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'code' => '69fb4bae09cdb17cba450be8f79d87ee',
+)
+[ info ] [ RUN ] app\crm\controller\Test->test[ E:\phpstudy_pro\WWW\thinkphp\application\crm\controller\Test.php ]
+[ info ] [ LOG ] INIT File

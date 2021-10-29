@@ -1,0 +1,414 @@
+---------------------------------------------------------------
+[ 2021-10-10T09:54:40+08:00 ] 127.0.0.1 GET hr/
+[运行时间：0.074944s] [吞吐率：13.34req/s] [内存消耗：1,067.30kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-10T11:20:41+08:00 ] 127.0.0.1 GET hr/
+[运行时间：0.028263s] [吞吐率：35.38req/s] [内存消耗：1,067.20kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-10T11:20:43+08:00 ] 127.0.0.1 POST hr/admin/Login/loginJump
+[运行时间：0.074885s] [吞吐率：13.35req/s] [内存消耗：2,031.34kb] [文件加载：47]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'Login',
+    2 => 'loginJump',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://hr/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'origin' => 'http://hr',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'content-length' => '39',
+  'connection' => 'keep-alive',
+  'host' => 'hr',
+)
+[ info ] [ PARAM ] array (
+  'method' => 'login',
+  'account' => 'admin',
+  'password' => '123',
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginJump[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002168s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_user` [ RunTime:0.003441s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_user` LIMIT 1 [ RunTime:0.001030s ]
+---------------------------------------------------------------
+[ 2021-10-10T11:20:43+08:00 ] 127.0.0.1 GET hr/admin/index/index.html
+[运行时间：0.048864s] [吞吐率：20.47req/s] [内存消耗：2,092.61kb] [文件加载：48]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=6k9hbesouj0s0jdbnulbb1det3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://hr/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'hr',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Index->Index[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\index\index.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001029s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.001005s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000325s ]
+---------------------------------------------------------------
+[ 2021-10-10T11:20:44+08:00 ] 127.0.0.1 GET hr/admin/menu/menuIndex
+[运行时间：0.040732s] [吞吐率：24.55req/s] [内存消耗：2,046.99kb] [文件加载：47]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'menu',
+    2 => 'menuIndex',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=6k9hbesouj0s0jdbnulbb1det3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://hr/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Menu->menuIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Menu.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\menu\menuindex.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001134s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.001175s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000376s ]
+---------------------------------------------------------------
+[ 2021-10-10T11:20:44+08:00 ] 127.0.0.1 GET hr/admin/menu/menuindex.html
+[运行时间：0.038095s] [吞吐率：26.25req/s] [内存消耗：2,019.40kb] [文件加载：48]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'menu',
+    2 => 'menuindex',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=6k9hbesouj0s0jdbnulbb1det3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://hr/admin/menu/menuIndex',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'hr',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Menu->menuIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Menu.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001069s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.001016s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000328s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `jw_menu` LIMIT 1 [ RunTime:0.000306s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000288s ]
+---------------------------------------------------------------
+[ 2021-10-10T11:20:45+08:00 ] 127.0.0.1 GET hr/admin/user/userIndex
+[运行时间：0.040031s] [吞吐率：24.98req/s] [内存消耗：2,029.05kb] [文件加载：47]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'user',
+    2 => 'userIndex',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=6k9hbesouj0s0jdbnulbb1det3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://hr/admin/menu/menuIndex',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\User->userIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\User.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\user\userindex.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001102s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.001057s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000390s ]
+---------------------------------------------------------------
+[ 2021-10-10T11:20:45+08:00 ] 127.0.0.1 GET hr/admin/user/userindex.html?page=1&limit=10
+[运行时间：0.037419s] [吞吐率：26.72req/s] [内存消耗：1,996.05kb] [文件加载：47]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'user',
+    2 => 'userindex',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=6k9hbesouj0s0jdbnulbb1det3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://hr/admin/user/userIndex',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'hr',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'limit' => '10',
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\User->userIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\User.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001040s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.000997s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000436s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_user` [ RunTime:0.000953s ]
+[ sql ] [ SQL ] SELECT COUNT(id) AS tp_count FROM `jw_user` LIMIT 1 [ RunTime:0.000238s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_user` LIMIT 0,10 [ RunTime:0.000310s ]
+---------------------------------------------------------------
+[ 2021-10-10T11:20:46+08:00 ] 127.0.0.1 GET hr/admin/menu/menuIndex
+[运行时间：0.038878s] [吞吐率：25.72req/s] [内存消耗：2,047.02kb] [文件加载：47]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'menu',
+    2 => 'menuIndex',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=6k9hbesouj0s0jdbnulbb1det3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://hr/admin/user/userIndex',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Menu->menuIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Menu.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\menu\menuindex.html [ array (
+  0 => 'menulist',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001201s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.001107s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000332s ]
+---------------------------------------------------------------
+[ 2021-10-10T11:20:46+08:00 ] 127.0.0.1 GET hr/admin/menu/menuindex.html
+[运行时间：0.036089s] [吞吐率：27.71req/s] [内存消耗：2,019.40kb] [文件加载：48]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'menu',
+    2 => 'menuindex',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=6k9hbesouj0s0jdbnulbb1det3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://hr/admin/menu/menuIndex',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'connection' => 'keep-alive',
+  'host' => 'hr',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Menu->menuIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Menu.php ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001049s ] mysql:host=127.0.0.1;port=3306;dbname=jc_website;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jw_menu` [ RunTime:0.000991s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000327s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `jw_menu` LIMIT 1 [ RunTime:0.000235s ]
+[ sql ] [ SQL ] SELECT * FROM `jw_menu` [ RunTime:0.000284s ]

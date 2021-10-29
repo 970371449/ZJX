@@ -1,0 +1,526 @@
+---------------------------------------------------------------
+[ 2021-10-24T16:04:15+08:00 ] 127.0.0.1 GET layui/
+[运行时间：0.183172s] [吞吐率：5.46req/s] [内存消耗：1,067.23kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'layui',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-24T16:11:01+08:00 ] 127.0.0.1 GET layui/
+[运行时间：0.029303s] [吞吐率：34.13req/s] [内存消耗：1,067.21kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'layui',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-24T16:12:09+08:00 ] 127.0.0.1 GET layui/
+[运行时间：0.027117s] [吞吐率：36.88req/s] [内存消耗：1,068.38kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'layui',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-24T16:21:44+08:00 ] 127.0.0.1 GET 
+[运行时间：0.034849s] [吞吐率：28.70req/s] [内存消耗：854.27kb] [文件加载：30]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'error',
+    1 => '400',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-24T16:21:44+08:00 ] 127.0.0.1 GET 
+[运行时间：0.017573s] [吞吐率：56.91req/s] [内存消耗：854.20kb] [文件加载：30]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'error',
+    1 => '400',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-24T16:21:44+08:00 ] 127.0.0.1 GET 
+[运行时间：0.017365s] [吞吐率：57.59req/s] [内存消耗：854.20kb] [文件加载：30]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'error',
+    1 => '400',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-24T16:21:44+08:00 ] 127.0.0.1 GET 
+[运行时间：0.026039s] [吞吐率：38.40req/s] [内存消耗：854.27kb] [文件加载：30]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'error',
+    1 => '400',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-24T16:21:47+08:00 ] 127.0.0.1 GET 
+[运行时间：0.019089s] [吞吐率：52.39req/s] [内存消耗：854.20kb] [文件加载：30]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'error',
+    1 => '400',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-24T16:21:47+08:00 ] 127.0.0.1 GET 
+[运行时间：0.018870s] [吞吐率：52.99req/s] [内存消耗：854.20kb] [文件加载：30]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'error',
+    1 => '400',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-24T16:21:47+08:00 ] 127.0.0.1 GET 
+[运行时间：0.018367s] [吞吐率：54.45req/s] [内存消耗：854.20kb] [文件加载：30]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'error',
+    1 => '400',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-24T16:21:47+08:00 ] 127.0.0.1 GET 
+[运行时间：0.017882s] [吞吐率：55.92req/s] [内存消耗：854.20kb] [文件加载：30]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'error',
+    1 => '400',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-24T16:21:48+08:00 ] 127.0.0.1 GET 
+[运行时间：0.019933s] [吞吐率：50.17req/s] [内存消耗：854.20kb] [文件加载：30]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'error',
+    1 => '400',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-24T16:21:48+08:00 ] 127.0.0.1 GET 
+[运行时间：0.020696s] [吞吐率：48.32req/s] [内存消耗：854.20kb] [文件加载：30]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'error',
+    1 => '400',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-24T16:21:48+08:00 ] 127.0.0.1 GET 
+[运行时间：0.017912s] [吞吐率：55.83req/s] [内存消耗：854.20kb] [文件加载：30]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'error',
+    1 => '400',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-24T16:21:48+08:00 ] 127.0.0.1 GET 
+[运行时间：0.022170s] [吞吐率：45.11req/s] [内存消耗：854.27kb] [文件加载：30]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'error',
+    1 => '400',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-24T16:21:49+08:00 ] 127.0.0.1 GET 
+[运行时间：0.020326s] [吞吐率：49.20req/s] [内存消耗：854.20kb] [文件加载：30]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'error',
+    1 => '400',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-24T16:21:49+08:00 ] 127.0.0.1 GET 
+[运行时间：0.019446s] [吞吐率：51.42req/s] [内存消耗：854.20kb] [文件加载：30]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'error',
+    1 => '400',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-24T16:21:49+08:00 ] 127.0.0.1 GET 
+[运行时间：0.017945s] [吞吐率：55.73req/s] [内存消耗：854.20kb] [文件加载：30]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'error',
+    1 => '400',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-24T16:21:49+08:00 ] 127.0.0.1 GET 
+[运行时间：0.017955s] [吞吐率：55.69req/s] [内存消耗：854.20kb] [文件加载：30]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'error',
+    1 => '400',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-24T16:21:49+08:00 ] 127.0.0.1 GET 
+[运行时间：0.017634s] [吞吐率：56.71req/s] [内存消耗：854.20kb] [文件加载：30]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'error',
+    1 => '400',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-24T16:21:49+08:00 ] 127.0.0.1 GET 
+[运行时间：0.018396s] [吞吐率：54.36req/s] [内存消耗：854.20kb] [文件加载：30]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'error',
+    1 => '400',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-24T16:21:49+08:00 ] 127.0.0.1 GET 
+[运行时间：0.017952s] [吞吐率：55.70req/s] [内存消耗：854.20kb] [文件加载：30]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'error',
+    1 => '400',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-24T16:21:49+08:00 ] 127.0.0.1 GET 
+[运行时间：0.025115s] [吞吐率：39.82req/s] [内存消耗：854.20kb] [文件加载：30]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'error',
+    1 => '400',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-10-24T16:22:08+08:00 ] 127.0.0.1 GET layui.com/
+[运行时间：0.032705s] [吞吐率：30.58req/s] [内存消耗：1,068.16kb] [文件加载：36]
+[ info ] [ LANG ] E:\phpstudy_pro\WWW\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => '__gads=ID=60e2a82ce9edb48a-2257573e8eca00e1:T=1627483751:RT=1627483751:S=ALNI_MYwh3m0ExB0UyX3oVm0VvotTAy9Rw; Hm_lvt_d214947968792b839fd669a4decaaffc=1630502266,1632314365,1632662712',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'layui.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Login->loginIndex[ E:\phpstudy_pro\WWW\thinkphp\application\admin\controller\Login.php ]
+[ info ] [ VIEW ] E:\phpstudy_pro\WWW\thinkphp\public/../application/admin\view\login\loginindex.html [ array (
+) ]
+[ info ] [ LOG ] INIT File

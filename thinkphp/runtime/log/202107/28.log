@@ -1,0 +1,31 @@
+---------------------------------------------------------------
+[ 2021-07-28T23:44:35+08:00 ] 127.0.0.1 GET hr/
+[运行时间：0.051647s] [吞吐率：19.36req/s] [内存消耗：1,318.99kb] [文件加载：34]
+[ info ] [ LANG ] D:\phpstudy_pro\thinkphp\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'hr',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\hr\controller\Login->login[ D:\phpstudy_pro\thinkphp\application\hr\controller\Login.php ]
+[ info ] [ VIEW ] D:\phpstudy_pro\thinkphp\public/../application/hr\view\login\login.html [ array (
+  0 => 'title',
+) ]
+[ info ] [ LOG ] INIT File
