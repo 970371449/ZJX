@@ -29,6 +29,9 @@ defined('TEMP_PATH') or define('TEMP_PATH', RUNTIME_PATH . 'temp' . DS);
 defined('CONF_PATH') or define('CONF_PATH', APP_PATH); // 配置文件目录
 defined('CONF_EXT') or define('CONF_EXT', EXT); // 配置文件后缀
 defined('ENV_PREFIX') or define('ENV_PREFIX', 'PHP_'); // 环境变量的配置前缀
+define("WB_AKEY", '4262232852');
+define("WB_SKEY", '8ba6772c816cd4f91b610ad1d012edee');
+define("WB_CALLBACK_URL", 'http://192.168.0.103:8001/admin/login/loginJump');
 
 define("WB_AKEY", '4262232852');
 define("WB_SKEY", '8ba6772c816cd4f91b610ad1d012edee');
